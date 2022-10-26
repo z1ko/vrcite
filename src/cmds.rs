@@ -7,7 +7,7 @@ use teloxide::{
 // ChatId of the admin group
 const ADMIN_GROUP_ID: ChatId = ChatId(-646467056);
 // ChatId of the public channel
-const PUBLIC_CHANNEL_ID: ChatId = ChatId(-1644783032);
+const PUBLIC_CHANNEL_ID: ChatId = ChatId(-1001644783032);
 
 #[derive(Clone, Default)]
 pub enum State {
